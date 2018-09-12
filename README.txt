@@ -1,11 +1,4 @@
 
-
-
-
-
-
-
-
                                  __.----._
                                .'         `-_
                               /              \              \
@@ -40,11 +33,6 @@
 
 
 
-
-
-
-
-
 Colors Personal Edition
 
 Cory Arcangel, 2009
@@ -55,4 +43,4 @@ An OSX app which plays a quicktime movie one horizontal line of pixels at a time
 
 "When you're too relaxed it's not good to create"
 
-- David Guetta ~\superscript{2}~
+- David Guetta
